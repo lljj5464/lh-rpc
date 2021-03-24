@@ -1,0 +1,5 @@
+# Project exclude paths
+/lh-rpc/target/
+/user-api/target/
+/user-consumer/target/
+/user-provider/target/
